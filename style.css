@@ -1,0 +1,8 @@
+body{
+    background-image: url("./balalalala.jpg");
+    background-size: cover;
+}
+
+.jumbotron{
+    background-color: rgba(250, 235, 215, 0.459);
+}
